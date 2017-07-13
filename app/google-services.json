@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "227342444773",
+    "project_id": "review-e37fc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227342444773:android:0ad4970edd128e9a",
+        "android_client_info": {
+          "package_name": "com.sid.review"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227342444773-u0m29eh64v0gscbnfli89rh53r7d5sqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sid.review",
+            "certificate_hash": "04D58EDA2B057C9495D924C8351CA828FE6AB207"
+          }
+        },
+        {
+          "client_id": "227342444773-nk4f716n5mq3hdqb9njhn9roj9fqcq5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mQ-OL6GeATsILuj-ELM8H2qwJpBpBDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
